@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm SXL-W</h1>
 <h3 align="center">Im A LUA Coder , I code luas for Cheats, i am Learning Java,C++ and Python</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.c7ec1b3dc252c733231b5a1ff15c0ec3?pid=1.7&rurl=https%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f09%2fanime-loli-gif-7.gif&ehk=g%2bI1owZWyqH1mVG%2fTNOP5msJq1ot2M3yDuT411f6Jkc%3d">
+
+
+<img align="left" alt="coding" width="300" src="https://www.bing.com/th/id/OGC.c7ec1b3dc252c733231b5a1ff15c0ec3?pid=1.7&rurl=https%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f09%2fanime-loli-gif-7.gif&ehk=g%2bI1owZWyqH1mVG%2fTNOP5msJq1ot2M3yDuT411f6Jkc%3d">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sxl-w&label=Profile%20views&color=0e75b6&style=flat" alt="sxl-w" /> </p>
 
