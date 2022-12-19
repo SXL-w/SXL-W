@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SXL-W</h1>
-<h3 align="center">Im A LUA Coder , I code luas for Cheats, i am Learning Java,C++ and Python</h3>
+<h3 align="center">Im A LUA Coder , I code luas for Cheats, i am Learning Java,C++</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sxl-w&label=Profile%20views&color=0e75b6&style=flat" alt="sxl-w" /> </p>
