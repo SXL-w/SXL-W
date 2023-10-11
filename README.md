@@ -10,8 +10,6 @@
 
 <img align="left" alt="coding" width="300" src="https://www.bing.com/th/id/OGC.c7ec1b3dc252c733231b5a1ff15c0ec3?pid=1.7&rurl=https%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f09%2fanime-loli-gif-7.gif&ehk=g%2bI1owZWyqH1mVG%2fTNOP5msJq1ot2M3yDuT411f6Jkc%3d">
 
-- 🔭 I’m currently working on [Suron X](https://shoppy.gg/@Nosyyy)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lolakol60840773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lolakol60840773" height="30" width="40" /></a>
